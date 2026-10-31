@@ -4,6 +4,10 @@ I built this interactive Tableau dashboard to explore how CO2 emissions vary bet
 
 I wanted to look beyond total emissions and compare countries from different perspectives, including emissions per person, population size, and historical trends.
 
+## Dashboard preview
+
+![Global CO₂ Emissions dashboard](Dashboard.png)
+
 ## Questions explored
 
 - How do CO2 emissions per person differ across countries?
